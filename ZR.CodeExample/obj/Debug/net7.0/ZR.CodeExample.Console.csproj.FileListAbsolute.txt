@@ -1,0 +1,15 @@
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\bin\Debug\net7.0\ZR.CodeExample.Console.exe
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\bin\Debug\net7.0\ZR.CodeExample.Console.deps.json
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\bin\Debug\net7.0\ZR.CodeExample.Console.runtimeconfig.json
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\bin\Debug\net7.0\ZR.CodeExample.Console.dll
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\bin\Debug\net7.0\ZR.CodeExample.Console.pdb
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\obj\Debug\net7.0\ZR.CodeExample.Console.csproj.AssemblyReference.cache
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\obj\Debug\net7.0\ZR.CodeExample.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\obj\Debug\net7.0\ZR.CodeExample.Console.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\obj\Debug\net7.0\ZR.CodeExample.Console.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\obj\Debug\net7.0\ZR.CodeExample.Console.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\obj\Debug\net7.0\ZR.CodeExample.Console.dll
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\obj\Debug\net7.0\refint\ZR.CodeExample.Console.dll
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\obj\Debug\net7.0\ZR.CodeExample.Console.pdb
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\obj\Debug\net7.0\ZR.CodeExample.Console.genruntimeconfig.cache
+E:\GitHub\Articles-Posts\C#\Converting Strings  and Reverse\Converting Strings in C# JSON, Base64, XML, CSV and Reverse\ZR.CodeExample.Console\obj\Debug\net7.0\ref\ZR.CodeExample.Console.dll
